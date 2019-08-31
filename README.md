@@ -1,4 +1,4 @@
-## Installation
+## Final Project Frontend Installation
 
 1. Fork & clone this repository
 
